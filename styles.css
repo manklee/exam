@@ -1,0 +1,27 @@
+.slogan{
+    background-image: url("338286839_1439965873446305_8401570664735785990_n.jpg");
+    height: 250px;background-position: center;
+    background-size:cover;
+}
+.coverlayout{
+    background: linear-gradient(-45deg, rgba(0, 0, 0, 0) 42.38%, #000000 180%)
+}
+.block_3{
+    color: whitesmoke;
+}
+.row{
+    padding: 10px 20px;
+}
+.slogan{
+    position: relative;
+}
+.coverlayout{position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;}
+.row{
+    font-size: smaller;
+}
